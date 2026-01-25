@@ -1,0 +1,11 @@
+jupyter
+nbconvert
+ipykernel
+
+pandas
+numpy
+yfinance
+finvizfinance
+requests
+beautifulsoup4
+matplotlib
