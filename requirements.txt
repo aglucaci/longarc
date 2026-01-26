@@ -1,11 +1,17 @@
-jupyter
-nbconvert
-ipykernel
-
+# Core data stack
 pandas
 numpy
+
+# Finance data
 yfinance
 finvizfinance
+
+# Web scraping / parsing
 requests
 beautifulsoup4
+
+# Browser-based scraping fallback (GuruFocus MOS)
+playwright
+
+# Plotting (safe to keep even if optional)
 matplotlib
