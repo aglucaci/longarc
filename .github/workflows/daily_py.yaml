@@ -1,9 +1,9 @@
-name: LONGARC Screener (script)
+name: LONGARC Screener (with GuruFocus MOS)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 15 * * 1-5" # 10:00 AM ET (15:00 UTC) Mon–Fri
+    - cron: "0 15 * * 1-5" # 10:00 AM ET (15:00 UTC), Mon–Fri
 
 permissions:
   contents: write
@@ -13,45 +13,48 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  run:
+  run-screener:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install finvizfinance yfinance pandas requests beautifulsoup4 matplotlib
+          pip install -r requirements.txt
 
-      - name: Prepare outputs folder
+      # --- THIS IS THE IMPORTANT PART ---
+      - name: Install Playwright browser (Chromium)
+        run: |
+          playwright install chromium
+
+      - name: Prepare output directory
         run: |
           mkdir -p outputs
-          mkdir -p outputs/images
 
       - name: Run LONGARC screener
+        env:
+          # Prevent Playwright from trying to use system sandboxing
+          PLAYWRIGHT_BROWSERS_PATH: 0
         run: |
           python longarc_screener.py
-
-      # If your script writes output.csv in repo root, move it into outputs/ for organization
-      - name: Collect outputs
-        run: |
-          if [ -f output.csv ]; then mv output.csv outputs/output.csv; fi
-          # If you later enable image generation in the script, ensure they land in outputs/images/
 
       - name: Upload outputs as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: longarc-screener-outputs
+          name: longarc-outputs
           path: outputs/
-          if-no-files-found: warn
           retention-days: 14
+          if-no-files-found: error
 
       - name: Commit outputs back to repo
         run: |
