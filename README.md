@@ -1,63 +1,169 @@
-# LONGARC
+# LongArc — Quant Value Screener & Dashboard
 
-**LONGARC** is an automated equity screening engine focused on identifying **high-quality compounders** and **mispriced value opportunities** using fundamentals, long-term growth, and intrinsic value signals.
+LongArc is a systematic equity research pipeline designed to identify asymmetric opportunities using a conservative Margin of Safety (MOS) model, automated screening, and a live dark-mode quant dashboard.
 
-The system runs end-to-end in **GitHub Actions**, producing timestamped CSV outputs that can be visualized, archived, or published automatically.
+The platform integrates:
+
+* Rule-based screening
+* Scenario-based earnings valuation
+* Predictability and balance-sheet risk adjustments
+* Static dashboards powered by GitHub-hosted data
 
 ---
 
-## Live Dashboard
+## View the Dashboard
+
+Open:
 
 https://aglucaci.github.io/longarc/
 
-## What LONGARC Does
-
-LONGARC combines multiple layers of analysis:
-
-1. **Fundamental Screening (Finviz)**
-   - Balance sheet quality
-   - Profitability (ROE / ROI / ROA)
-   - Cash flow discipline
-   - Reasonable valuation constraints
-
-2. **Long-Term Growth**
-   - Computes **10-year CAGR** from historical price data
-   - Filters for durable compounders (default: CAGR > 15%)
-
-3. **Intrinsic Value Check (GuruFocus)**
-   - Extracts **DCF Margin of Safety (%)**
-   - Supports **negative MOS** (overvaluation detection)
-   - Uses browser-based fallback to handle anti-bot protections
-
-4. **Automated Output**
-   - Timestamped CSVs committed back to the repo
-   - Artifacts uploaded for each run
-   - Ready for dashboards, Substack posts, or further analysis
+or deploy through static hosting platforms such as GitHub Pages or Netlify.
 
 ---
 
-## Repository Structure
+# Core Philosophy
 
-```text
-.
-├── longarc_screener.py               # Main screener script
-├── requirements.txt                  # Python dependencies
-├── scripts/
-│   └── get_gurufocus_margin_of_safety.py
-│                                     # MOS extraction logic (requests + Playwright)
-├── outputs/
-│   ├── longarc_full_<timestamp>.csv  # Full universe
-│   └── longarc_filtered_<timestamp>.csv
-│                                     # CAGR-filtered universe with MOS
-├── .github/
-│   └── workflows/
-│       └── longarc_screener.yml      # GitHub Actions automation
-└── README.md
+LongArc emphasizes:
 
+* Downside protection
+* Repeatable valuation logic
+* Transparent assumptions
+* Efficient visual scanning of opportunities
 
+Rather than relying on a single fair-value estimate, LongArc calculates:
 
+Bear / Base / Bull intrinsic value scenarios
 
+Securities are ranked primarily using:
 
+MOS_Bear_% (conservative margin of safety)
 
+---
 
+# Margin of Safety Model
 
+The MOS engine runs locally and does not depend on external valuation sites.
+
+## Intrinsic Value Framework
+
+Normalized EPS
+→ Two-stage discounted earnings stream
+→ Predictability multiplier (quality haircut)
+→ Balance-sheet floor valuation
+
+### Stage Structure
+
+* Growth Stage: N years
+* Terminal Stage: M years
+* No perpetuity assumption (intentionally conservative)
+
+### Margin of Safety Definition
+
+MOS = (Intrinsic Value − Price) / Intrinsic Value
+
+Large negative MOS values indicate that price significantly exceeds the model’s intrinsic estimate and should be interpreted as an overvaluation flag rather than a literal downside percentage.
+
+---
+
+# Screener Pipeline
+
+Finviz Filters
+→ 10-year Price CAGR
+→ Recommended MOS Calculation
+→ Filtered Output CSV
+
+Generated files:
+
+```
+outputs/
+ ├── longarc_full_<timestamp>.csv
+ ├── longarc_filtered_<timestamp>.csv
+ └── longarc_filtered_TODAY.csv
+```
+
+---
+
+# Quant Dashboard
+
+The dashboard is a static HTML application that loads data directly from GitHub Raw:
+
+```
+https://aglucaci.github.io/longarc/
+```
+
+## Features
+
+* Dark professional interface
+* MOS heat shading
+* Company and ticker display
+* Live sorting and filtering
+* Search across ticker, sector, industry, and company
+* Median and top-decile MOS metrics
+
+No backend infrastructure is required.
+
+---
+
+# Usage
+
+## Run the Screener
+
+```
+python longarc_screener.py
+```
+
+Dependencies:
+
+```
+pip install yfinance pandas numpy finvizfinance
+```
+
+---
+
+## Publish Data
+
+Commit the updated CSV:
+
+```
+outputs/longarc_filtered_TODAY.csv
+```
+
+GitHub Raw acts as the live data source.
+
+---
+
+# Output Columns
+
+| Column               | Description                   |
+| -------------------- | ----------------------------- |
+| MOS_Bear_%           | Conservative margin of safety |
+| MOS_Base_%           | Neutral scenario MOS          |
+| MOS_Bull_%           | Upside scenario MOS           |
+| Value_Bear/Base/Bull | Intrinsic values              |
+| EPS_Norm             | Normalized earnings           |
+| Quality_Mult         | Predictability adjustment     |
+| Floor_Value          | Downside floor valuation      |
+| 10yr_CAGR            | Historical price CAGR         |
+
+---
+
+# Design Principles
+
+* Conservative valuation bias
+* Minimal external dependencies
+* Static-site deployment
+* Institutional-style interface
+
+---
+
+# Notes
+
+* Extremely negative MOS values are expected under conservative assumptions.
+* Yahoo Finance fields may occasionally be incomplete or delayed.
+* This tool is intended for research and educational purposes only.
+
+---
+
+# License
+
+Internal research tooling. Adapt freely for personal or organizational use.
