@@ -1,0 +1,16 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,51270000000.0,46.95,241.85,0.006,525771.0,18.26
+BMI,Badger Meter Inc,Technology,Scientific & Technical Instruments,USA,4430000000.0,31.4,150.41,-0.0054,118372.0,18.12
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,39020000000.0,24.72,40.31,-0.0014000000000000002,1874604.0,24.92
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,78050000000.0,42.19,195.18,-0.0034999999999999996,407304.0,26.44
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1220000000.0,15.08,48.51,0.0053,23367.0,20.95
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,14360000000.0,6.77,75.58,0.024300000000000002,402491.0,-1.98
+LULU,Lululemon Athletica inc,Consumer Cyclical,Apparel Retail,Canada,21320000000.0,12.15,174.12,0.0073,726676.0,11.38
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,341660000000.0,32.02,80.92,-0.015600000000000001,22901276.0,25.12
+ODD,ODDITY Tech Ltd,Consumer Defensive,Household & Personal Products,Israel,1700000000.0,16.59,29.66,-0.013600000000000001,256200.0,-4.48
+PAYC,Paycom Software Inc,Technology,Software - Application,USA,7260000000.0,16.03,128.94,-0.0155,440756.0,18.57
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,6240000000.0,26.99,114.75,-0.0263,297808.0,16.66
+RACE,Ferrari N.V,Consumer Cyclical,Auto Manufacturers,Italy,59700000000.0,33.89,335.52,0.0052,313079.0,26.6
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5600000000.0,13.97,60.98,-0.012,112070.0,10.88
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,13060000000.0,30.8,27.0,-0.0016,3543411.0,24.55
+V,Visa Inc,Financial,Credit Services,USA,619620000000.0,30.8,325.07,-0.0196,4249088.0,17.58
