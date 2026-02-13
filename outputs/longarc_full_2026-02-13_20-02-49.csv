@@ -1,0 +1,18 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,49210000000.0,45.06,232.11,0.038599999999999995,1460353.0,17.41
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,36450000000.0,23.1,37.65,0.0255,4873519.0,23.52
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1020000000.0,18.76,156.01,0.0236,42242.0,26.25
+CRVL,Corvel Corp,Financial,Insurance Brokers,USA,2520000000.0,24.1,49.19,0.0407,140901.0,12.74
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,77530000000.0,41.9,193.87,-0.011399999999999999,746709.0,26.31
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4680000000.0,21.27,25.32,0.024900000000000002,2229764.0,-7.35
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4800000000.0,20.49,30.25,0.0189,1991311.0,12.68
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1220000000.0,15.17,48.81,0.022000000000000002,78163.0,20.85
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8740000000.0,17.34,375.68,-0.06309999999999999,705033.0,36.55
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13880000000.0,6.54,73.02,0.0014000000000000002,288568.0,-2.1
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,325180000000.0,30.48,77.02,0.0152,25919806.0,23.89
+ODD,ODDITY Tech Ltd,Consumer Defensive,Household & Personal Products,Israel,1630000000.0,15.87,28.38,0.0278,1495288.0,-5.29
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5790000000.0,25.26,107.38,0.030600000000000002,1158465.0,14.45
+PRI,Primerica Inc,Financial,Insurance - Life,USA,8050000000.000001,10.99,252.13,0.0084,126325.0,21.17
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3780000000.0,19.37,105.47,0.006500000000000001,696008.0,16.89
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12540000000.0,29.59,25.94,-0.0077,9225290.0,24.13
+V,Visa Inc,Financial,Credit Services,USA,600280000000.0,29.84,314.94,-0.0285,7196614.0,17.23
