@@ -1,0 +1,18 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,48260000000.0,44.2,227.66,0.0104,569974.0,16.17
+CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel,3410000000.0,45.44,14.24,-0.0042,644861.0,4.0
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,36210000000.0,22.94,37.4,-0.0031,6563036.0,23.55
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1070000000.0000001,19.55,162.55,0.0219,66211.0,25.39
+CRVL,Corvel Corp,Financial,Insurance Brokers,USA,2450000000.0,23.43,47.81,-0.0341,118849.0,13.27
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,77910000000.0,42.11,194.82,-0.0005,246230.0,26.16
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4700000000.0,21.35,25.43,0.0346,857151.0,-7.4
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4890000000.0,20.86,30.8,0.0195,511476.0,12.83
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,6820000000.0,21.93,122.26,0.0191,164921.0,22.91
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1220000000.0,15.08,48.5,-0.0053,31850.0,20.75
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,14220000000.0,6.7,74.82,0.0377,154743.0,-2.21
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,329650000000.0,30.9,78.08,0.013999999999999999,12342022.0,23.68
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,425140000.0,7.58,11.18,0.0036,83138.0,-1.73
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5870000000.0,25.64,108.99,0.0125,268167.0,14.14
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3730000000.0,19.1,103.98,0.0007000000000000001,235866.0,16.11
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12450000000.0,29.38,25.75,0.0196,5488945.0,23.7
+V,Visa Inc,Financial,Credit Services,USA,611440000000.0,30.4,320.8,0.0040999999999999995,2639776.0,16.71
