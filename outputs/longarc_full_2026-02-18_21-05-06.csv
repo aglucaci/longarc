@@ -1,0 +1,18 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,48590000000.0,44.49,229.18,0.0171,1143489.0,16.17
+CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel,3380000000.0,45.05,14.12,-0.0126,1400550.0,4.0
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,36640000000.0,23.22,37.85,0.0089,10985927.0,23.55
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1060000000.0,19.43,161.55,0.015700000000000002,91313.0,25.39
+CRVL,Corvel Corp,Financial,Insurance Brokers,USA,2470000000.0,23.61,48.2,-0.0263,227482.0,13.27
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,78510000000.0,42.43,196.32,0.0072,568127.0,26.16
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4720000000.0,21.46,25.56,0.039900000000000005,2424148.0,-7.4
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4900000000.0,20.9,30.85,0.021400000000000002,1307786.0,12.83
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,6860000000.0,22.08,123.05,0.025699999999999997,332381.0,22.91
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1220000000.0,15.08,48.53,-0.004699999999999999,85144.0,20.75
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,14100000000.0,6.64,74.18,0.0288,328452.0,-2.21
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,329370000000.0,30.87,78.01,0.0131,21922121.0,23.68
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5890000000.0,25.72,109.32,0.015600000000000001,459246.0,14.14
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3770000000.0,19.3,105.06,0.0111,431537.0,16.11
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5570000000.0,13.89,60.63,-0.0023,665501.0,10.44
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12400000000.0,29.25,25.64,0.0151,13253598.0,23.7
+V,Visa Inc,Financial,Credit Services,USA,613070000000.0,30.48,321.65,0.0067,4817654.0,16.71
