@@ -1,0 +1,19 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,48160000000.0,44.1,227.15,0.008100000000000001,348095.0,16.17
+CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel,3410000000.0,45.44,14.24,-0.0042,379432.0,4.0
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,36620000000.0,23.2,37.83,0.0083,5031813.0,23.55
+CRVL,Corvel Corp,Financial,Insurance Brokers,USA,2500000000.0,23.92,48.82,-0.0137,41154.0,13.27
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,77760000000.0,42.03,194.46,-0.0024,147723.0,26.16
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4680000000.0,21.26,25.32,0.0302,522583.0,-7.4
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4880000000.0,20.81,30.73,0.0172,326147.0,12.83
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,6800000000.0,21.87,121.89,0.016,99191.0,22.91
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1200000000.0,14.87,47.83,-0.0191,17647.0,20.75
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,14250000000.0,6.71,74.97,0.039900000000000005,96921.0,-2.21
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,327970000000.0,30.74,77.68,0.0088,8663886.0,23.68
+ODD,ODDITY Tech Ltd,Consumer Defensive,Household & Personal Products,Israel,1700000000.0,16.59,29.67,0.056600000000000004,248625.0,-5.13
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,423260000.0,7.54,11.13,-0.0008,48120.0,-1.73
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5870000000.0,25.64,109.0,0.0126,215940.0,14.14
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3710000000.0,19.01,103.5,-0.0039000000000000003,174095.0,16.11
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5610000000.0,14.0,61.12,0.0058,156649.0,10.44
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12440000000.0,29.35,25.73,0.0184,3671205.0,23.7
+V,Visa Inc,Financial,Credit Services,USA,611620000000.0,30.41,320.89,0.0043,1682926.0,16.71
