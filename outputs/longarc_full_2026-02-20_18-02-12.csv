@@ -1,0 +1,19 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,48270000000.0,44.2,227.7,-0.0060999999999999995,655033.0,16.51
+CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel,3240000000.0,43.2,13.54,-0.0174,599726.0,3.62
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1080000000.0,19.78,164.49,-0.0008,78777.0,25.89
+CRVL,Corvel Corp,Financial,Insurance Brokers,USA,2470000000.0,23.7,48.38,0.0034999999999999996,68396.0,12.92
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,78880000000.0,42.64,197.26,-0.0036,365771.0,26.46
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4690000000.0,21.34,25.41,0.0070999999999999995,823023.0,-7.15
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4760000000.0,20.31,29.99,-0.0138,813814.0,12.09
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,5980000000.0,19.23,107.21,-0.0512,761669.0,22.18
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1240000000.0,15.34,49.34,-0.0038,31194.0,21.03
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8640000000.0,17.14,371.24,-0.0074,105737.0,35.6
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13920000000.0,6.56,73.24,-0.0087,179075.0,-1.97
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,329180000000.0,30.85,77.96,0.0125,14416310.0,24.07
+NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,Denmark,158790000000.0,13.59,47.13,-0.0273,7076284.0,8.72
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5710000000.0,24.93,105.99,-0.0206,146939.0,14.73
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3690000000.0,18.91,102.98,-0.0021,185866.0,16.1
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5570000000.0,13.89,60.65,-0.0026,143009.0,10.48
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12210000000.0,28.81,25.25,0.0004,8478184.0,23.7
+V,Visa Inc,Financial,Credit Services,USA,610500000000.0,30.35,320.3,0.0043,2563945.0,16.84
