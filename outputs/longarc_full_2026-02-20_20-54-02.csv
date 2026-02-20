@@ -1,0 +1,14 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,48040000000.0,43.99,226.59,-0.011000000000000001,1154274.0,16.51
+CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel,3170000000.0,42.28,13.25,-0.0385,1233811.0,3.62
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4730000000.0,21.49,25.6,0.0146,1431354.0,-7.15
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4760000000.0,20.32,30.0,-0.013500000000000002,1526454.0,12.09
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1240000000.0,15.37,49.46,-0.0014000000000000002,69788.0,21.03
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8690000000.0,17.25,373.59,-0.0011,201184.0,35.6
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13880000000.0,6.54,73.06,-0.0111,283771.0,-1.97
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,331540000000.0,31.07,78.52,0.019799999999999998,23771747.0,24.07
+NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,Denmark,159600000000.0,13.66,47.37,-0.0223,9998793.0,8.72
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5710000000.0,24.92,105.95,-0.021,432939.0,14.73
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5580000000.0,13.92,60.78,-0.0005,363228.0,10.48
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12120000000.0,28.59,25.06,-0.006999999999999999,11973455.0,23.7
+V,Visa Inc,Financial,Credit Services,USA,612550000000.0,30.45,321.38,0.0077,4113727.0,16.84
