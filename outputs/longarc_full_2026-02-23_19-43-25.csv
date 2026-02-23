@@ -1,0 +1,18 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,46140000000.0,42.25,217.63,-0.0412,1100827.0,16.06
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,34280000000.0,22.21,35.42,-0.0292,7974539.0,22.45
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1050000000.0,19.31,160.54,-0.0363,102700.0,25.57
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,79220000000.0,42.82,198.11,-0.0096,534669.0,26.45
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4380000000.0,19.9,23.69,-0.0727,1981846.0,-7.04
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4550000000.0,19.44,28.7,-0.045599999999999995,1354359.0,12.22
+FTNT,Fortinet Inc,Technology,Software - Infrastructure,USA,55790000000.0,30.92,75.02,-0.0623,4477767.0,30.41
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1240000000.0,15.4,49.56,-0.0012,48496.0,20.67
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8700000000.0,17.27,374.01,0.0016,158565.0,35.58
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13660000000.0,6.43,71.87,-0.0182,403053.0,-2.06
+MANH,"Manhattan Associates, Inc",Technology,Software - Application,USA,7780000000.0,36.09,130.04,-0.0986,469172.0,9.98
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,320860000000.0,30.07,76.0,-0.034,26894802.0,23.57
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,408210000.0,7.28,10.73,-0.0567,228975.0,-2.05
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5500000000.0,24.02,102.1,-0.0337,302051.0,13.3
+RACE,Ferrari N.V,Consumer Cyclical,Auto Manufacturers,Italy,63570000000.0,35.49,358.58,-0.022799999999999997,311435.0,26.29
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5540000000.0,13.81,60.31,-0.0092,206017.0,10.41
+V,Visa Inc,Financial,Credit Services,USA,582910000000.0,28.98,305.83,-0.0471,7402724.0,16.82
