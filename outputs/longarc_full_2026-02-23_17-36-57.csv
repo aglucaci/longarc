@@ -1,0 +1,17 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,46060000000.0,42.18,217.28,-0.042699999999999995,778774.0,16.06
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,34680000000.0,22.47,35.83,-0.018000000000000002,5039047.0,22.45
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1060000000.0,19.41,161.41,-0.0311,73541.0,25.57
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4390000000.0,19.96,23.77,-0.0696,1433670.0,-7.04
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4590000000.0,19.57,28.9,-0.039,882699.0,12.22
+FTNT,Fortinet Inc,Technology,Software - Infrastructure,USA,56440000000.0,31.28,75.89,-0.051399999999999994,2495944.0,30.41
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8680000000.0,17.23,373.06,-0.0009,97460.0,35.58
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13800000000.0,6.5,72.63,-0.0078000000000000005,284384.0,-2.06
+MANH,"Manhattan Associates, Inc",Technology,Software - Application,USA,7820000000.0,36.25,130.61,-0.0947,279393.0,9.98
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,320650000000.0,30.05,75.95,-0.0346,20616745.0,23.57
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,408790000.0,7.29,10.75,-0.0554,153124.0,-2.05
+PAYC,Paycom Software Inc,Technology,Software - Application,USA,6230000000.0,14.19,114.81,0.0008,961397.0,13.9
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5510000000.0,24.08,102.35,-0.0313,180054.0,13.3
+RACE,Ferrari N.V,Consumer Cyclical,Auto Manufacturers,Italy,63510000000.0,35.46,358.23,-0.023700000000000002,234853.0,26.29
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5530000000.0,13.8,60.23,-0.0105,118696.0,10.41
+V,Visa Inc,Financial,Credit Services,USA,591230000000.0,29.39,310.19,-0.0335,4514048.0,16.82
