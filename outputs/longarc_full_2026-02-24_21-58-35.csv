@@ -1,0 +1,21 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,46830000000.0,42.89,220.91,0.0104,2203997.0,15.5
+CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel,3020000000.0,40.3,12.63,0.057800000000000004,2119509.0,2.14
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,34150000000.0,22.13,35.28,-0.0023,11849578.0,22.31
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1030000000.0,18.87,156.96,-0.011699999999999999,126622.0,24.89
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4450000000.0,20.21,24.07,0.013000000000000001,2940247.0,-7.71
+EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA,4560000000.0,19.47,28.75,0.0084,2699604.0,11.71
+FTNT,Fortinet Inc,Technology,Software - Infrastructure,USA,55940000000.0,31.0,75.23,-0.0049,10048121.0,29.54
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,5680000000.0,18.25,101.75,0.0060999999999999995,1257621.0,20.83
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1230000000.0,15.29,49.18,0.001,101440.0,19.9
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13680000000.0,6.45,71.99,0.0033,445054.0,-2.26
+MANH,"Manhattan Associates, Inc",Technology,Software - Application,USA,7980000000.0,37.01,133.35,0.025,596461.0,8.94
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,329500000000.0,30.88,78.04,0.026600000000000002,32196716.0,23.33
+ODD,ODDITY Tech Ltd,Consumer Defensive,Household & Personal Products,Israel,1670000000.0,16.23,29.02,-0.0294,2373188.0,-4.53
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,412210000.0,7.35,10.84,0.0084,519098.0,-2.12
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5560000000.0,24.26,103.14,0.011699999999999999,1205346.0,13.16
+PRI,Primerica Inc,Financial,Insurance - Life,USA,8070000000.0,11.03,252.87,-0.0008,169731.0,21.09
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3100000000.0,15.95,86.83,0.0021,792969.0,13.25
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5620000000.0,14.0,61.11,0.018000000000000002,666519.0,10.35
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12060000000.0,28.45,24.94,0.0319,11909849.0,23.16
+V,Visa Inc,Financial,Credit Services,USA,585560000000.0,29.11,307.22,0.0023,9116015.0,16.34
