@@ -15,7 +15,7 @@ The platform integrates:
 
 Open:
 
-https://aglucaci.github.io/longarc/
+https://aglucaci.github.io/valuearc/
 
 or deploy through static hosting platforms such as GitHub Pages or Netlify.
 
