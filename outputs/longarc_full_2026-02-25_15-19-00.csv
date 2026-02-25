@@ -1,0 +1,20 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,47810000000.0,43.78,225.54,0.021,145976.0,15.62
+CLMB,Climb Global Solutions Inc,Technology,Electronics & Computer Distribution,USA,440990000.0,20.58,95.59,-0.04190000000000001,8851.0,22.91
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,34510000000.0,22.36,35.65,0.0106,1111133.0,22.28
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1020000000.0,18.75,155.9,-0.0068000000000000005,14018.0,24.74
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,78840000000.0,42.61,197.15,-0.0070999999999999995,70172.0,26.49
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4530000000.0,20.57,24.5,0.0179,348880.0,-7.59
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,5610000000.0,18.04,100.54,-0.011899999999999999,232515.0,20.9
+IDT,IDT Corp,Communication Services,Telecom Services,USA,1240000000.0,15.32,49.29,0.0023,1206.0,19.91
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8650000000.0,17.25,373.55,-0.0189,30460.0,35.84
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13820000000.0,6.51,72.75,0.0106,103788.0,-2.22
+MANH,"Manhattan Associates, Inc",Technology,Software - Application,USA,8050000000.000001,37.35,134.57,0.0092,40540.0,9.21
+NFLX,Netflix Inc,Communication Services,Entertainment,USA,344640000000.0,32.3,81.63,0.046,14573012.0,23.65
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,413540000.0,7.37,10.88,0.0032,25896.0,-2.04
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5540000000.0,24.2,102.89,-0.0024,52210.0,13.29
+PRI,Primerica Inc,Financial,Insurance - Life,USA,8039999999.999999,10.98,251.86,-0.004,4842.0,21.08
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3180000000.0,16.38,89.21,0.0275,103907.0,13.27
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5600000000.0,13.95,60.92,-0.0031,22919.0,10.55
+TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA,12240000000.0,28.88,25.32,0.015,2123659.0,23.55
+V,Visa Inc,Financial,Credit Services,USA,593360000000.0,29.5,311.31,0.013300000000000001,1129335.0,16.37
