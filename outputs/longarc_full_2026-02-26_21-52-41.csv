@@ -1,0 +1,11 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+ADSK,Autodesk Inc,Technology,Software - Application,USA,49490000000.0,45.32,233.45,0.0384,3844379.0,15.82
+CLMB,Climb Global Solutions Inc,Technology,Electronics & Computer Distribution,USA,415340000.0,19.38,90.03,-0.0318,114231.0,22.05
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,35960000000.0,23.3,37.15,0.0366,11230170.0,22.48
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,79290000000.0,42.86,198.28,0.0076,2107536.0,26.38
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4640000000.0,21.08,25.1,0.0287,3099762.0,-7.46
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan,13550000000.0,6.38,71.29,-0.0182,571862.0,-2.14
+MANH,"Manhattan Associates, Inc",Technology,Software - Application,USA,8359999999.999999,38.75,139.61,0.0319,775165.0,9.37
+ODD,ODDITY Tech Ltd,Consumer Defensive,Household & Personal Products,Israel,790650000.0,7.66,13.77,-0.0661,11108493.0,-11.05
+TGLS,Tecnoglass Inc,Basic Materials,Building Materials,Colombia,2140000000.0000002,11.97,46.01,-0.0629,972294.0,19.22
+V,Visa Inc,Financial,Credit Services,USA,603630000000.0,30.01,316.7,0.011899999999999999,8704102.0,16.58
