@@ -1,0 +1,19 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,10yr_CAGR
+BMI,Badger Meter Inc,Technology,Scientific & Technical Instruments,USA,4450000000.0,31.84,152.49,-0.0236,27694.0,17.76
+CPRT,"Copart, Inc",Industrials,Specialty Business Services,USA,35640000000.0,23.09,36.82,-0.0089,278088.0,22.4
+CRAI,CRA International Inc,Industrials,Consulting Services,USA,1080000000.0,19.72,163.96,-0.020499999999999997,77859.0,25.47
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,USA,78950000000.0,42.67,197.43,-0.0043,96927.0,26.18
+DOCS,Doximity Inc,Healthcare,Health Information Services,USA,4480000000.0,20.38,24.27,-0.0332,81034.0,-7.2
+FTNT,Fortinet Inc,Technology,Software - Infrastructure,USA,56950000000.0,31.72,76.97,-0.0282,393546.0,29.61
+HLNE,Hamilton Lane Inc,Financial,Asset Management,USA,5710000000.0,18.36,102.36,-0.053200000000000004,37167.0,21.64
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA,8680000000.0,17.31,375.0,-0.0195,51548.0,35.91
+MANH,"Manhattan Associates, Inc",Technology,Software - Application,USA,8020000000.0,37.21,134.08,-0.039599999999999996,23604.0,9.1
+NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,Denmark,126920000000.0,10.86,37.67,0.0013,3772379.0,5.75
+ODD,ODDITY Tech Ltd,Consumer Defensive,Household & Personal Products,Israel,763940000.0,7.4,13.3,-0.0338,538819.0,-11.66
+OSPN,OneSpan Inc,Technology,Software - Infrastructure,USA,419630000.0,7.48,11.03,-0.029500000000000002,43923.0,-1.77
+PCTY,Paylocity Holding Corp,Technology,Software - Application,USA,5560000000.0,24.29,103.23,-0.0833,64165.0,14.06
+PRI,Primerica Inc,Financial,Insurance - Life,USA,8060000000.000001,11.01,252.53,-0.026000000000000002,3107.0,21.13
+QLYS,Qualys Inc,Technology,Software - Infrastructure,USA,3220000000.0,16.6,90.38,-0.0353,54621.0,13.43
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA,5640000000.0,14.06,61.38,-0.0017000000000000001,8522.0,10.4
+TGLS,Tecnoglass Inc,Basic Materials,Building Materials,Colombia,2060000000.0,11.54,44.34,-0.0363,35283.0,18.45
+V,Visa Inc,Financial,Credit Services,USA,596780000000.0,29.67,313.1,-0.011399999999999999,712080.0,16.36
